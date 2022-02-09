@@ -38,3 +38,4 @@ C:\Users\jerem\OneDrive\Desktop\REPOS\WeeklyChallenges\ChallengesWithTestsMark8\
 C:\Users\jerem\OneDrive\Desktop\REPOS\WeeklyChallenges\ChallengesWithTestsMark8\bin\Debug\netcoreapp3.1\ChallengesWithTestsMark8.dll
 C:\Users\jerem\OneDrive\Desktop\REPOS\WeeklyChallenges\ChallengesWithTestsMark8\bin\Debug\netcoreapp3.1\ChallengesWithTestsMark8.pdb
 C:\Users\jerem\OneDrive\Desktop\REPOS\WeeklyChallenges\ChallengesWithTestsMark8\obj\Debug\netcoreapp3.1\ChallengesWithTestsMark8.genruntimeconfig.cache
+C:\Users\jerem\OneDrive\Desktop\REPOS\WeeklyChallenges\ChallengesWithTestsMark8\obj\Debug\netcoreapp3.1\ChallengesWithTestsMark8.csproj.AssemblyReference.cache
